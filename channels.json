@@ -1,10 +1,1 @@
-[
-  {
-    "id": "globoplay-globoplay-novelas-1",
-    "name": "Globoplay Novelas",
-    "url": "https://api.globovideos.com/videos/13834654/playlist/without_resources/callback/wmPlayerPlaylistLoaded113834654",
-    "category": "Globoplay Novelas",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Globo_logo.png",
-    "page_url": "https://globoplay.globo.com/canais/globoplay-novelas/"
-  }
-]
+{"updated_at":null,"channels":[]}
